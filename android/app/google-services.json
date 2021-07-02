@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621596667497",
+    "project_id": "mobile-payment-application",
+    "storage_bucket": "mobile-payment-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621596667497:android:6e71d30a850f124bb57cf8",
+        "android_client_info": {
+          "package_name": "com.fadelazhar.mbpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621596667497-s9n7bgb1c97ee909lna613mshdf3sqge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fadelazhar.mbpayment",
+            "certificate_hash": "3da11669a59baa0ee74d648c3fbd879e008d76d3"
+          }
+        },
+        {
+          "client_id": "621596667497-7llo5gtqm2r1o9gtdi3980l4tqg7kc9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa5Hvu2pBD_tiaqA-JRfCtbYCx1AvqP_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621596667497-7llo5gtqm2r1o9gtdi3980l4tqg7kc9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
