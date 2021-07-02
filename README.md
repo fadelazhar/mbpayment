@@ -1,5 +1,4 @@
-# mbpayment
-
+# E-Wallet Application
 A Mobile Payment Application
 
 ## Getting Started
